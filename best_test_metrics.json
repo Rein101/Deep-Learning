@@ -1,0 +1,16 @@
+{
+  "TARGET": "Nu",
+  "FEATURES": [
+    "Re_log",
+    "Re",
+    "Re_Por",
+    "Re_1 - Por",
+    "Re_1 - Por_log"
+  ],
+  "MODEL": "Support Vector Machine: Regression",
+  "TEST": {
+    "MAE": 0.00580616461975876,
+    "RMSE": 0.00664206386334571,
+    "R2": 0.9999980945265895
+  }
+}
