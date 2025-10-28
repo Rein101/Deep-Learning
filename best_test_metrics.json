@@ -1,16 +1,18 @@
 {
-  "TARGET": "Nu",
+  "TARGET": "Nu_log",
   "FEATURES": [
-    "Re_log",
-    "Re",
-    "Re_Por",
-    "Re_1 - Por",
-    "Re_1 - Por_log"
+    "Da_1 - Por",
+    "Por",
+    "Por_log",
+    "1 - Por",
+    "1 - Por_log",
+    "Da_log",
+    "Da"
   ],
-  "MODEL": "Support Vector Machine: Regression",
+  "MODEL": "Gradient Boosting Regressor",
   "TEST": {
-    "MAE": 0.00580616461975876,
-    "RMSE": 0.00664206386334571,
-    "R2": 0.9999980945265895
+    "MAE": 5.3468457419652005e-05,
+    "RMSE": 9.050064207611835e-05,
+    "R2": 0.9999652525260766
   }
 }
